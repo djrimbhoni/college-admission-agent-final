@@ -1,0 +1,4 @@
+venv/
+.env
+admission_db/
+__pycache__/

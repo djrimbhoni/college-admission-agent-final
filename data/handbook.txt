@@ -1,0 +1,141 @@
+============================================================
+COLLEGE ADMISSION HANDBOOK — ACADEMIC YEAR 2025–26
+============================================================
+
+1. ABOUT THE COLLEGE
+------------------------------------------------------------
+Our institution offers undergraduate engineering programmes in
+Computer Science, Electronics, Mechanical, Civil, and
+Information Technology. The college is affiliated with a
+recognised state technical university and approved by AICTE.
+
+2. ELIGIBILITY CRITERIA
+------------------------------------------------------------
+To be eligible for admission to any B.Tech programme:
+
+  • Candidates must have passed 10+2 (or equivalent) from a
+    recognised board with Physics, Chemistry, and Mathematics
+    (PCM) as core subjects.
+  • A minimum aggregate of 60% marks in PCM at the 10+2 level
+    is required. SC/ST/OBC candidates receive a 5% relaxation
+    (minimum 55%).
+  • Candidates appearing in their final 10+2 examination in
+    the current academic year are also eligible to apply
+    provisionally, subject to meeting the cut-off upon result
+    declaration.
+  • Age limit: Candidates must be at least 17 years of age as
+    on 31 December of the admission year.
+
+3. ENTRANCE EXAMINATION & CUTOFFS
+------------------------------------------------------------
+Admission is primarily based on JEE Main scores.
+
+  • Minimum qualifying percentile: 85th percentile overall in
+    JEE Main (Paper 1 — B.E./B.Tech).
+  • Branch-wise indicative closing percentiles (2024 reference):
+      - Computer Science & Engineering   : 95th percentile
+      - Information Technology           : 92nd percentile
+      - Electronics & Communication Eng. : 88th percentile
+      - Mechanical Engineering           : 85th percentile
+      - Civil Engineering                : 85th percentile
+  • Candidates who do not have a JEE Main score may apply
+    through the college's own entrance test (CET), conducted
+    in the last week of May. CET cutoff: 60 out of 100.
+  • Lateral entry (2nd year) is available for diploma holders
+    with 60% aggregate; no entrance exam required.
+
+4. PROGRAMMES OFFERED & INTAKE
+------------------------------------------------------------
+  Programme                          Seats
+  -------------------------------------------------------
+  B.Tech Computer Science Engg.        60
+  B.Tech Information Technology        60
+  B.Tech Electronics & Comm. Engg.     60
+  B.Tech Mechanical Engineering        60
+  B.Tech Civil Engineering             60
+  Total                               300
+
+5. FEE STRUCTURE
+------------------------------------------------------------
+5.1 Tuition Fees
+  • Annual tuition fee: ₹1,95,000 (1.95 LPA) per academic year.
+  • The fee is payable in two installments:
+      - Semester 1 (July): ₹97,500
+      - Semester 2 (January): ₹97,500
+  • A one-time admission/registration fee of ₹5,000 is charged
+    at the time of first enrollment.
+  • Laboratory and library fee: ₹8,000 per year (included in
+    the semester bill).
+
+5.2 Hostel Fees (Per Academic Year)
+  • Non-AC double-occupancy room: ₹75,000
+    (includes room rent, electricity up to 100 units/month,
+     and Wi-Fi)
+  • AC double-occupancy room    : ₹1,15,000
+    (includes room rent, electricity up to 150 units/month,
+     and Wi-Fi)
+  • Single-occupancy room (non-AC): ₹95,000
+  • Mess charges (optional, per semester): ₹18,000
+    (covers breakfast, lunch, and dinner on weekdays)
+  • Hostel security deposit (refundable): ₹10,000
+
+5.3 Other Charges
+  • Transport (college bus, per year): ₹20,000 – ₹28,000
+    depending on distance zone.
+  • Examination fee: ₹1,200 per semester (university mandated).
+
+6. SCHOLARSHIPS & FEE WAIVERS
+------------------------------------------------------------
+  • Merit scholarship: Top 5% of each batch (by JEE Main
+    percentile) receives a 25% tuition fee waiver.
+  • Government SC/ST scholarship: Full tuition fee
+    reimbursement for eligible students as per state norms.
+  • Sports quota: Students with state or national level
+    sports achievement may receive up to 50% tuition waiver
+    (subject to committee approval).
+  • EWS scholarship: 10% fee waiver for Economically Weaker
+    Section (EWS) certificate holders.
+
+7. APPLICATION & ADMISSION DEADLINES
+------------------------------------------------------------
+  Round 1 (JEE Main — Merit List):
+    Application portal opens  : 01 May 2025
+    Last date to apply        : 30 May 2025
+    Merit list publication    : 10 June 2025
+    Counselling & seat allotment: 16–20 June 2025
+    Fee payment & confirmation: 25 June 2025
+
+  Round 2 (Spot Admission / CET):
+    CET examination date      : 28 May 2025
+    Results                   : 05 June 2025
+    Spot admission counselling: 25–27 June 2025
+    Last date for confirmation: 30 June 2025
+
+  Classes commence            : 21 July 2025
+
+  Note: Seats remaining after Round 2 will be filled through
+  a final spot round on 10 July 2025.
+
+8. REQUIRED DOCUMENTS AT ADMISSION
+------------------------------------------------------------
+  1. 10th mark sheet and passing certificate
+  2. 12th (10+2) mark sheet and passing certificate
+  3. JEE Main scorecard / CET admit card & result
+  4. Transfer certificate from last attended institution
+  5. Migration certificate (if from another board)
+  6. Caste/category certificate (if applicable)
+  7. EWS certificate (if applicable)
+  8. Aadhar card (self and parent)
+  9. Four passport-size photographs
+  10. Medical fitness certificate
+
+9. CONTACT INFORMATION
+------------------------------------------------------------
+  Admissions Office
+  Phone  : +91-XXXX-XXXXXX  (Mon–Sat, 9 AM – 5 PM)
+  Email  : admissions@college.edu.in
+  Website: www.college.edu.in/admissions
+
+============================================================
+END OF HANDBOOK
+============================================================
